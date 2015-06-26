@@ -18,3 +18,14 @@ Note that I've included the background image for the page in this folder, "grey.
 Write your CSS rules below.
 
 */
+
+.board {
+	border:thick green solid;
+	margin-right: auto;
+	margin-left: auto;
+
+}
+.square {
+	font-size: 16pt;
+	color:orange;
+}
